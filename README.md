@@ -4,7 +4,7 @@ Tools bypass url shortlink<br>
 <pre><code>
 apt install git
 apt install python3
-git clone https://github.com/micingans/bypass-link/
+git clone https://github.com/gh05tc0der/bypass-link
 pip3 install -r requirements.txt
 cd bypass-link
 python3 bypass.py
